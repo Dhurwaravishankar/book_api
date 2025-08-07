@@ -27,7 +27,7 @@ It supports all **CRUD operations** (Create, Read, Update, Delete), and stores d
 
 ```bash
 # 1. Clone the repo or download the files
-git clone https://github.com/your-username/book-api-task.git
+git clone (https://github.com/Dhurwaravishankar/book_api.git)
 cd book-api-task
 
 # 2. Install dependencies
